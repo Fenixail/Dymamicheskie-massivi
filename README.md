@@ -1,0 +1,2 @@
+# Dymamicheskie-massivi
+c++
